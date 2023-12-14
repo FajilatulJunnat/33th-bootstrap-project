@@ -2,3 +2,52 @@
     display: flex;
     justify-content: space-between;
 }
+.slide{
+    background-color: #FEEAE9;
+}
+.btn-1{
+    background-color: #FF589B;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 6px;
+
+}
+.card-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FF9C35;
+    height: 120px;
+}
+.card-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FF136F;
+    height: 120px;
+}
+.card-3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #4289FF;
+    height: 120px;
+}
+.sho-bag-nav{
+    display: flex;
+    justify-content: space-between;
+}
+.sho-bag-nav a{
+    text-decoration: none;
+    color: #FF9D00;
+    font-size: 20px;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(194, 186, 186, 0.2), 0 6px 20px 0 rgba(201, 197, 197, 0.19);
+}
+.btn-2{
+    background-color: black;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 6px;
+}
