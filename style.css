@@ -1,12 +1,19 @@
 body{
 font-family: 'Inter', sans-serif;
 }
+.pic{
+    display: flex;
+    justify-content: space-between;
+}
 .navigation{
     display: flex;
     justify-content: space-between;
 }
 .slide{
     background-color: #FEEAE9;
+}
+.sli-nav{
+    margin-top:10vw;
 }
 .btn-1{
     background-color: #FF589B;
